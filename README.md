@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rasiyahshafa
 - 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning How to be Data Analyst
+- 🌱 I’m currently learning Data Visualization, Data Statistic, SQL, and R
 - 📫 How to reach me rasiyahshafa@gmail.com
 
 <!---
